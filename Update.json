@@ -1,12 +1,12 @@
 {
   "credit": "S.H.O.H.A.N",
-  "Update": false,
+  "Update": true,
   "rgb_border": true,
   "force_exit": true,
   "title": "Update Available",
   "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Advance Xml",
   "btn_update": "Update Now",
   "btn_exit": "Exit",
-  "link": "https://t.me/Modifyworldbd"
+  "link": "https://github.com/AnonymousRaihan/XML-Creator/raw/refs/heads/main/XML%20Creator%203.0%20By%20PaPi16.apk"
 }
